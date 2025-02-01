@@ -10,4 +10,4 @@ set(SDL_STATIC True)
 set(SDL_EXAMPLES True)
 
 add_subdirectory(vendor/SDL EXCLUDE_FROM_ALL)
-target_link_libraries(OpenGL PRIVATE SDL3::SDL3-static X11 Xext Xfixes)
+target_link_libraries(OpenGL PRIVATE SDL3::SDL3-static Xfixes)
