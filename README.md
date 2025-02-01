@@ -1,4 +1,4 @@
-# SDL window overlay in Xorg display manager
+# SDL window overlay in Xorg
 
 # How to build and run?
 1. clone repo with submodules: ```git clone --recurse-submodules https://github.com/eso8086/SDL3-Project```
